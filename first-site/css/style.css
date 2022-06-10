@@ -8,10 +8,14 @@ hr {
     border-top-style: dotted;
 }
 img {
-    height: 20px;
-    width: 30%;
+    height: 100px;
+    width: 100px;
 }
 
 h1 {
+    color: #66BFBf;
+}
+
+h3 {
     color: #66BFBf;
 }
